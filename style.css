@@ -1,0 +1,27 @@
+body
+ {background-color:#330066}
+style
+p.italic {font-style:italic;}
+
+#header {background-color:#33cccc;
+background-image:url("https://sphotos-a.xx.fbcdn.net/hphotos-prn2/p206x206/992915_633444936667808_1688801884_n.jpg")
+background-repeat:repeat-x;
+width:100%
+min-height:100px; }
+#leftcolumn{
+background-color:#33cccc;
+width:100%;
+min-height: 100px;
+float:left
+}
+#maincontent {
+  background-color:#003399;
+	width:67%;
+	min-height:400px;
+	float:left
+}
+#footer {
+	background-color:#33cccc;
+	width:100%;
+	min-height:100px;
+	clear:both; }
