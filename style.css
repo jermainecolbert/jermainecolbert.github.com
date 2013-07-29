@@ -1,27 +1,41 @@
 body
- {background-color:#330066}
-style
+ {background-image:url("http://d1r5i20o8cadcu.cloudfront.net/designs/images/54018/original/y.jpg")}
+<style>
 p.italic {font-style:italic;}
+body{color:black;}
+h1{color:black;}
+p
+{
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+border-left-style:solid;
+}
+</style>
 
-#header {background-color:#33cccc;
+
+#header {background-color:black;
 background-image:url("https://sphotos-a.xx.fbcdn.net/hphotos-prn2/p206x206/992915_633444936667808_1688801884_n.jpg")
 background-repeat:repeat-x;
+font-size:12;
 width:100%
 min-height:100px; }
 #leftcolumn{
-background-color:#33cccc;
+	font-color:navy;
+background-color:;
 width:100%;
 min-height: 100px;
 float:left
 }
 #maincontent {
-  background-color:#003399;
+	font-color:;
+	background-color:;
 	width:67%;
 	min-height:400px;
 	float:left
 }
 #footer {
-	background-color:#33cccc;
+	background-color:;
 	width:100%;
 	min-height:100px;
 	clear:both; }
